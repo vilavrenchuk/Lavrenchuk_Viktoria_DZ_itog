@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Suspicious Traffic",
+        "source": "192.168.1.21",
+        "details": "High activity: 16 requests",
+        "severity": "Medium"
+    },
+    {
+        "type": "Suspicious Traffic",
+        "source": "192.168.1.20",
+        "details": "High activity: 14 requests",
+        "severity": "Medium"
+    },
+    {
+        "type": "Suspicious Traffic",
+        "source": "192.168.1.22",
+        "details": "High activity: 9 requests",
+        "severity": "Medium"
+    },
+    {
+        "type": "Software Vulnerability",
+        "source": "test_lib",
+        "severity": "Critical",
+        "cvss": 9.8
+    },
+    {
+        "type": "Software Vulnerability",
+        "source": "old_app",
+        "severity": "High",
+        "cvss": 7.5
+    },
+    {
+        "type": "Software Vulnerability",
+        "source": "buggy_soft",
+        "severity": "Medium",
+        "cvss": 5.0
+    }
+]
